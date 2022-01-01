@@ -1,1 +1,0 @@
-Hi all i will upload the solutions
