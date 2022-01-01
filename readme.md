@@ -34,8 +34,7 @@
     An repository for sharing java solution 
     <br />
 
-    <br />
-    <br />
+    
 
   </p>
 </div>
@@ -164,7 +163,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Snehal Jose - [@snehal_jose](https://twitter.com/snehal_jose)
 
-Discord - [snehal jose#1823](snehal jose#1823)
+Discord - snehal jose#1823
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
