@@ -51,7 +51,7 @@
 
 
 
-Hi all in this repo you guys can upload your java code so that it can be shared among others.
+Hi, In this repo you guys can upload your java code so that it can be shared among others.
 It also helps for those who are searching for solutions.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
