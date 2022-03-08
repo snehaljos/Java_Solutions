@@ -1,7 +1,7 @@
 package work;
 
 //https://leetcode.com/problems/n-queens-ii
-public class Nqunees2 {
+public class Nqueens2 {
     public static void main(String[] args) {
         int n = 10;
         boolean[][] board = new boolean[n][n];
